@@ -51,19 +51,9 @@ const Navbar = () => {
       path: "/building",
     },
     {
-      name: "Class Schedules",
-      icon: <Clock className="h-5 w-5" />,
-      path: "/schedule",
-    },
-    {
       name: "Library System",
       icon: <BookOpen className="h-5 w-5" />,
       path: "/library",
-    },
-    {
-      name: "Student Portal",
-      icon: <Users className="h-5 w-5" />,
-      path: "/students",
     },
     {
       name: "Notifications",
